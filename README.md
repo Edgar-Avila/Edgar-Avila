@@ -1,4 +1,4 @@
-# Hi, I’m Edgar Avila 👋
+# Hi there 👋
 
 ### ✨ I’m interested in
 - Coding
