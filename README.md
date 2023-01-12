@@ -41,4 +41,4 @@ My name is Edgar Avila Agramonte, I am a Systems Engineering student. I find cod
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edgar-avila-agramonte/)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Edgar-Avila)](https://git.io/streak-stats)
-[![Edgar GitHub stats](https://github-readme-stats.vercel.app/api?username=Edgar-Avila&theme=buefy&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Edgar GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Edgar-Avila&theme=buefy&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
