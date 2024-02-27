@@ -21,6 +21,7 @@ My name is Edgar Avila Agramonte, I am a Systems Engineering student. I find cod
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-14354C?style=for-the-badge&logo=tailwindcss&logoColor=4FC08D)
 
 ### 💻Backend
 ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
